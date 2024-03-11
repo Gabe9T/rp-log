@@ -1,1 +1,3 @@
-log
+Walk though of code academy in python.
+
+https://github.com/Gabe9T/CodeAcademy.git
