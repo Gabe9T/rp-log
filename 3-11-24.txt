@@ -1,5 +1,9 @@
 Walk though of code academy in python.
 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-1
 https://github.com/Gabe9T/CodeAcademy.git
-11
+11a
 doing code wars 
+1
+applying to jobs
+3
+looking for scraping resources
