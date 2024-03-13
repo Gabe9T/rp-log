@@ -2,3 +2,5 @@
 code wars
 10
 code academy
+1 
+brain storming python/typescript project
