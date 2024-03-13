@@ -6,4 +6,4 @@ doing code wars
 1
 applying to jobs
 3
-looking for scraping resources
+looking at scraping resources
