@@ -4,3 +4,5 @@ code wars
 code academy
 1 
 brain storming python/typescript project
+3 
+applying for jobs
