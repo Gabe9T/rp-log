@@ -4,3 +4,6 @@ codewars
 starting on scraping
 1130 
 whiteboarding 
+1
+working on grabbing title/restructor
+
