@@ -1,2 +1,4 @@
 9
 codewars
+10
+working on scraping project more. look to add a simple html frontend before trying to make a react app for it
