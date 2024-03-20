@@ -6,4 +6,5 @@ starting on scraping
 whiteboarding 
 1
 working on grabbing title/restructor
-
+2
+applying for jobs
