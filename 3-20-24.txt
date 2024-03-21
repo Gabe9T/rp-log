@@ -4,3 +4,5 @@ codewars
 working on scraping project more. look to add a simple html frontend before trying to make a react app for it
 1
 plan for react frontend 
+4 
+applying for jobs
