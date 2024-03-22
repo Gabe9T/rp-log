@@ -2,3 +2,5 @@
 codewars
 10 
 figuring out sql base to store stories 
+4 
+applying for jobs
